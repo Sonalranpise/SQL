@@ -22,4 +22,4 @@ The design of the database helps to easily evaluate and identify the performance
 - Write a query to display the customer’s name if the name ends with a.
 - Write a query to display the product details in descending order of the price.
 - Write a query to display the product code and category from similar categories that are greater than or equal to 2.
-- Write a query to display the order number and the customer name to combine the results of the order and the customer tables including duplicate rows.
+- Write a query to display the order number and the customer name to combine the results of the order and the customer tables including duplicate rows
